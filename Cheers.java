@@ -15,7 +15,7 @@ public class Cheers {
         if (lettersAn.indexOf(l) != -1 ) {
                 System.out.println( "Give me an " + l + ": " + l + "!" );
         } else { 
-                System.out.println( "Give me a " + l + ": " + l + "!" );
+                System.out.println( "Give me a  " + l + ": " + l + "!" );
         }
         
          }
