@@ -12,12 +12,12 @@ public class Collatz {
 	for (int i = 1; i <= n; i++) { sequence(i); }
 
 	System.out.println( "Every one of the first " + n + 
-						" hailstone sequences reached 1");
+						" hailstone sequences reached 1.");
 	}
 
 	if (mode.equals(c)) 
 	System.out.println( "Every one of the first " + n + 
-						" hailstone sequences reached 1");
+						" hailstone sequences reached 1.");
 
 	}
 	
